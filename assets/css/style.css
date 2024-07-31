@@ -233,6 +233,7 @@ color: #FFFFFF;
   .skill img {
     height: 140px;
     align-items: center;
+    border-radius: 50%;
   }
   
   .skills h6 {
