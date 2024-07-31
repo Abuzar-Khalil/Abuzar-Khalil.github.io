@@ -222,7 +222,7 @@ color: #FFFFFF;
   .skill {
     border: 1px solid gray;
     display: block;
-    border-radius: 10px;
+    border-radius: 50%;
     text-align: center;
     margin: 50px;
     padding: 10px;
